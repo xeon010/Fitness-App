@@ -1,0 +1,11 @@
+﻿  DietPlan.cpp
+  DietPlanList.cpp
+  ExercisePlan.cpp
+  ExercisePlanList.cpp
+  fitnessApp.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\troym\Desktop\PA's\MUEHLBAUER_PA_4\x64\Debug\MUEHLBAUER_PA_4.exe not found or not built by the last incremental link; performing full link
+  MUEHLBAUER_PA_4.vcxproj -> C:\Users\troym\Desktop\PA's\MUEHLBAUER_PA_4\x64\Debug\MUEHLBAUER_PA_4.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
